@@ -21,7 +21,6 @@ namespace DiscountStoreTask
             basket.Remove(catalog._catalog[0], 2);
 
             Console.WriteLine(basket.GetTotal());
-            Console.ReadKey();
         }
     }
 }
