@@ -1,0 +1,16 @@
+M:\programming\Projects\DiscountStoreTask\DiscountStoreTask\bin\Debug\net5.0\DiscountStoreTask.exe
+M:\programming\Projects\DiscountStoreTask\DiscountStoreTask\bin\Debug\net5.0\DiscountStoreTask.deps.json
+M:\programming\Projects\DiscountStoreTask\DiscountStoreTask\bin\Debug\net5.0\DiscountStoreTask.runtimeconfig.json
+M:\programming\Projects\DiscountStoreTask\DiscountStoreTask\bin\Debug\net5.0\DiscountStoreTask.runtimeconfig.dev.json
+M:\programming\Projects\DiscountStoreTask\DiscountStoreTask\bin\Debug\net5.0\DiscountStoreTask.dll
+M:\programming\Projects\DiscountStoreTask\DiscountStoreTask\bin\Debug\net5.0\ref\DiscountStoreTask.dll
+M:\programming\Projects\DiscountStoreTask\DiscountStoreTask\bin\Debug\net5.0\DiscountStoreTask.pdb
+M:\programming\Projects\DiscountStoreTask\DiscountStoreTask\obj\Debug\net5.0\DiscountStoreTask.csproj.AssemblyReference.cache
+M:\programming\Projects\DiscountStoreTask\DiscountStoreTask\obj\Debug\net5.0\DiscountStoreTask.GeneratedMSBuildEditorConfig.editorconfig
+M:\programming\Projects\DiscountStoreTask\DiscountStoreTask\obj\Debug\net5.0\DiscountStoreTask.AssemblyInfoInputs.cache
+M:\programming\Projects\DiscountStoreTask\DiscountStoreTask\obj\Debug\net5.0\DiscountStoreTask.AssemblyInfo.cs
+M:\programming\Projects\DiscountStoreTask\DiscountStoreTask\obj\Debug\net5.0\DiscountStoreTask.csproj.CoreCompileInputs.cache
+M:\programming\Projects\DiscountStoreTask\DiscountStoreTask\obj\Debug\net5.0\DiscountStoreTask.dll
+M:\programming\Projects\DiscountStoreTask\DiscountStoreTask\obj\Debug\net5.0\ref\DiscountStoreTask.dll
+M:\programming\Projects\DiscountStoreTask\DiscountStoreTask\obj\Debug\net5.0\DiscountStoreTask.pdb
+M:\programming\Projects\DiscountStoreTask\DiscountStoreTask\obj\Debug\net5.0\DiscountStoreTask.genruntimeconfig.cache
